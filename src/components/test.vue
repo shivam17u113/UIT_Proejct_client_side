@@ -1,8 +1,7 @@
 <template>
   <div>
     
-  <router-view/>
-
+<h1>shivam parve</h1>
   </div>
 </template>
 
